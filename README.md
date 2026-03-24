@@ -1,4 +1,4 @@
-#Sales Forecasting using Machine Learning
+# Sales Forecasting using Machine Learning
 
 [cite_start]This project involves the development of a sales forecasting system designed to estimate future revenue and optimize business operations[cite: 1, 2]. [cite_start]By analyzing historical transaction data, the project provides insights into future demand, helping businesses balance inventory levels and allocate resources more efficiently[cite: 2, 3].
 
